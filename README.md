@@ -1,5 +1,7 @@
 # React Planetarium
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8e07c4ad-9948-4358-abe4-fbb0b3e3df6f/deploy-status)](https://app.netlify.com/sites/react-planetarium/deploys)
+
 A simple project built with React that tells you how much you would weigh on different planets in the solar system. Here's a [demo](https://planetarium.toddgoates.com/).
 
 ## Getting Started
