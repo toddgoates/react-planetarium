@@ -28,7 +28,7 @@ function Planet({ planet, weight }) {
       <img src={`images/${planet.image}`} alt={planet.name} />
       <h2>{planet.name}</h2>
       <p>
-        {weight === 0
+        {weight === 0 || weight === ""
           ? "Enter your weight"
           : `You weigh ${planetaryWeight} lbs`}
       </p>
