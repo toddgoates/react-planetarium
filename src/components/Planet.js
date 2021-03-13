@@ -30,7 +30,7 @@ function Planet({ planet, weight }) {
       <p>
         {weight === 0
           ? "Enter your weight"
-          : `You weight ${planetaryWeight} lbs`}
+          : `You weigh ${planetaryWeight} lbs`}
       </p>
     </PlanetCard>
   );
