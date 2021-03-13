@@ -1,9 +1,5 @@
 # Pocket Planetarium
 
-[![CodeFactor](https://www.codefactor.io/repository/github/toddgoates/pocket-planetarium/badge)](https://www.codefactor.io/repository/github/toddgoates/pocket-planetarium)
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/968e071e-3abf-409e-8b33-4b650ee50d4b/deploy-status)](https://app.netlify.com/sites/pocket-planetarium/deploys)
-
 A simple project built with React that tells you how much you would weigh on different planets in the solar system. Here's a [demo](https://planetarium.toddgoates.com/).
 
 ## Getting Started
