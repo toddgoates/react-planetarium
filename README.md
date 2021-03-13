@@ -1,4 +1,4 @@
-# Pocket Planetarium
+# React Planetarium
 
 A simple project built with React that tells you how much you would weigh on different planets in the solar system. Here's a [demo](https://planetarium.toddgoates.com/).
 
