@@ -25,7 +25,7 @@ function Planet({ planet, weight }) {
   const planetaryWeight = (weight * planet.ratio).toFixed(2);
   return (
     <PlanetCard>
-      <img src={`images/${planet.image}`} alt={planet.name} />
+      <img src={`images/${planet.image}`} alt={planet.name} loading="lazy" />
       <h2>{planet.name}</h2>
       <p>
         {weight === 0 || weight === ""
